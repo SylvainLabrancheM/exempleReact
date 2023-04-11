@@ -33,7 +33,7 @@ const Input = (props) => {
     <div className={`form-control ${!inputState.estValide && "form-control--invalid"}`}>
       <label htmlFor={props.id}>{props.label}</label>
       {element}
-      {!inputState.estValide && <p>{props.errorText}</p>}
+      {!inputState.estValide && <p>{props.errorText} </p>}
     </div>
   );
 };

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Card from "../../../shared/Card";
-import Button from "../../../shared/Formulaire/Button";
-import Modal from "../../../shared/Modal"
+import Card from "../../shared/Card";
+import Button from "../../shared/Formulaire/Button";
+import Modal from "../../shared/Modal"
 import "./Place.css";
 
 function Place({ place }) {

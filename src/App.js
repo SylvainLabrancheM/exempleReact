@@ -9,7 +9,7 @@ import Utilisateurs from "./utilisateur/pages/Utilisateurs";
 import NouvellePlace from "./places/pages/NouvellePlace";
 import MainNavigation from "./shared/Navigation/MainNavigation";
 import PlacesUtilisateur from "./places/pages/PlacesUtilisateur";
-import Place from "./places/pages/components/Place";
+import Place from "./places/components/Place";
 
 function App() {
   return (

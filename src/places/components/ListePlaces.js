@@ -1,5 +1,5 @@
 import { PROPERTY_TYPES } from "@babel/types";
-import Card from "../../../shared/Card";
+import Card from "../../shared/Card";
 import React from "react";
 import Place from "./Place";
 import "./ListePlaces.css";

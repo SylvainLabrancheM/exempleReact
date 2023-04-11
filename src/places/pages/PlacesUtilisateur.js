@@ -1,5 +1,5 @@
 import React from "react";
-import ListePlaces from "./components/ListePlaces";
+import ListePlaces from "../components/ListePlaces";
 import { useParams } from "react-router-dom";
 
 const PLACES = [
